@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Scorpio</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Scorpio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,2 C3.791,2 2,3.791 2,6 L2,15 L4,15 L4,6 C4,4.897 4.897,4 6,4 C7.103,4 8,4.897 8,6 L10,6 C10,3.791 8.209,2 6,2" id="Rump" fill="#000000"></path>
+        <path d="M22,20 L19,18 L19,19 L18,19 C16.897,19 16,18.103 16,17 L16,6 C16,3.791 14.209,2 12,2 C9.791,2 8,3.791 8,6 L8,15 L10,15 L10,6 C10,4.897 10.897,4 12,4 C13.103,4 14,4.897 14,6 L14,17 C14,19.209 15.791,21 18,21 L19,21 L19,22 L22,20 Z" id="Tail" fill="#000000"></path>
+    </g>
+</svg>

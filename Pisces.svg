@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Pisces</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pisces" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Bar" fill="#000000" points="5 13.7993 19 13.7993 19 11.7993 5 11.7993"></polygon>
+        <path d="M10,12.7992 C10,7.9612 6.564,3.9272 2,3.0002 L2,4.9642 C5.498,5.8582 8.095,9.0272 8.095,12.7992 C8.095,16.5712 5.498,19.7402 2,20.6342 L2,22.5982 C6.564,21.6712 10,17.6372 10,12.7992" id="Fish" fill="#000000"></path>
+        <path d="M14,12.7992 C14,17.6372 17,21.6712 22,22.5982 L22,20.6342 C19,19.7402 15.905,16.5712 15.905,12.7992 C15.905,9.0272 18.502,5.8582 22,4.9642 L22,3.0002 C17.436,3.9272 14,7.9612 14,12.7992" id="Fish" fill="#000000"></path>
+    </g>
+</svg>

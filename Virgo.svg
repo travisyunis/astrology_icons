@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Virgo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Virgo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,2 C3.791,2 2,3.791 2,6 L2,15 L4,15 L4,6 C4,4.897 4.897,4 6,4 C7.103,4 8,4.897 8,6 L10,6 C10,3.791 8.209,2 6,2" id="Candy-Cane" fill="#000000"></path>
+        <path d="M12,2 C9.791,2 8,3.791 8,6 L8,15 L10,15 L10,6 C10,4.897 10.897,4 12,4 C13.103,4 14,4.897 14,6 L14,22 L16,22 L16,6 C16,3.791 14.209,2 12,2" id="Tail" fill="#000000"></path>
+        <path d="M18,11 C15.791,11 14,12.791 14,15 L16,15 C16,13.897 16.897,13 18,13 C19.103,13 20,13.897 20,15 C20,16.103 19.103,17 18,17 L18,19 C20.209,19 22,17.209 22,15 C22,12.791 20.209,11 18,11" id="Loop" fill="#000000"></path>
+        <polygon id="Tip" fill="#000000" points="12 19 18 19 18 17 12 17"></polygon>
+    </g>
+</svg>

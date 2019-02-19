@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Capricorn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Capricorn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,2 C3.791,2 2,3.791 2,6 L4,6 C4,4.897 4.897,4 6,4 C7.103,4 8,4.897 8,6 L10,6 C10,3.791 8.209,2 6,2" id="Head" fill="#000000"></path>
+        <path d="M12,2 C9.791,2 8,3.791 8,6 L8,13 L10,13 L10,6 C10,4.897 10.897,4 12,4 C13.103,4 14,4.897 14,6 L14,18 L16,18 L16,6 C16,3.791 14.209,2 12,2" id="Top-Tail" fill="#000000"></path>
+        <path d="M12,22 L10,22 L10,20 L12,20 C13.103,20 14,19 14,18 L16,18 C16,20 14.209,22 12,22 Z" id="Tail" fill="#000000"></path>
+        <path d="M18,14 C15.791,14 14,15.791 14,18 C14,20.209 15.791,22 18,22 C20.209,22 22,20.209 22,18 C22,15.791 20.209,14 18,14 M18,16 C19.103,16 20,16.897 20,18 C20,19.103 19.103,20 18,20 C16.897,20 16,19.103 16,18 C16,16.897 16.897,16 18,16" id="Head" fill="#000000"></path>
+    </g>
+</svg>

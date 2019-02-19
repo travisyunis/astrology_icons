@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Taurus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Taurus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,20 C9.791,20 8,18.209 8,16 C8,13.791 9.791,12 12,12 C14.209,12 16,13.791 16,16 C16,18.209 14.209,20 12,20 M12,10 C8.686,10 6,12.686 6,16 C6,19.314 8.686,22 12,22 C15.314,22 18,19.314 18,16 C18,12.686 15.314,10 12,10" id="Head" fill="#000000"></path>
+        <path d="M20,3 C20,7.418 16.418,11 12,11 C7.582,11 4,7.418 4,3 L2,3 C2,7.734 5.293,11.69 9.711,12.726 C10.36,12.272 11.147,12 12,12 C12.853,12 13.64,12.272 14.289,12.726 C18.707,11.69 22,7.734 22,3 L20,3 Z" id="Horns" fill="#000000"></path>
+    </g>
+</svg>

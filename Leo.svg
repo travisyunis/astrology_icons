@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Leo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Leo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,9 C3.791,9 2,10.791 2,13 C2,15.209 3.791,17 6,17 C8.209,17 10,15.209 10,13 C10,10.791 8.209,9 6,9 M6,11 C7.103,11 8,11.897 8,13 C8,14.103 7.103,15 6,15 C4.897,15 4,14.103 4,13 C4,11.897 4.897,11 6,11" id="Head" fill="#000000"></path>
+        <path d="M20,18 C20,19 19.103,20 18,20 C16.897,20 16,19.103 16,18 L16,8 C16,4.686 13.314,2 10,2 C6.686,2 4,4.686 4,8 C4,8.933 4.223,9.811 4.603,10.598 L6.295,9.47 C6.111,9.014 6,8.522 6,8 C6,5.794 7.794,4 10,4 C12.206,4 14,5.794 14,8 L14,18 C14,20.209 15.791,22 18,22 C20.209,22 22,20 22,18 L20,18 Z" id="Mane" fill="#000000"></path>
+    </g>
+</svg>
