@@ -1,7 +1,7 @@
 [Astrology Icons 1.0.0]
 ===========
 
-### Astrology Icons is an open source icon set. It is a legible collection of 12 icons with a tiny footprint.
+### An open source set of icons - Legible with a tiny footprint.
 
 
 
